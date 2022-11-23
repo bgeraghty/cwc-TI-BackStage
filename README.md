@@ -6,4 +6,4 @@ For Cleaning Up Those Hard-To-Reach Registry Messes :smiley: :+1:
 Requires:
  - Run As Admin
  - Run EXE From ConnectWiseControl BackStage Environment
- - https://youtu.be/iroXKdSqSPo
+ - https://youtu.be/Ntu_6ROG8EM 
