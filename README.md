@@ -1,2 +1,2 @@
 # cwc-TI-BackStage
-Open cmd.exe In ConnectWise Control BackStage Desktop Running With "NT Service\TrustedInstaller" Group Status
+Open cmd.exe In ConnectWise Control BackStage Desktop With "NT SERVICE\TrustedInstaller" Group Status
