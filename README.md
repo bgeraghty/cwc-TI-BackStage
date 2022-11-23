@@ -4,3 +4,4 @@ Open cmd.exe In ConnectWise Control BackStage Desktop With "NT SERVICE\TrustedIn
 Requires:
  - Run As Admin
  - Run EXE From ConnectWiseControl BackStage Environment
+ - https://youtu.be/iroXKdSqSPo
